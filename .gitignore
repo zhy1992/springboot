@@ -1,6 +1,9 @@
 /target/
 
-*.classpath
-*.project
-*.settings
-*.perfs
+
+.classpath
+
+.project
+
+/.settings/
+
